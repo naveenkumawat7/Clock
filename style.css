@@ -1,0 +1,23 @@
+#clock{
+    font-size: 150px;
+    width: 900px;
+    color:black;
+    /* margin: 200px 200px; */
+    
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:rgb(213, 209, 213);
+    box-shadow: 0px 0px 1115px 1px rgb(255, 149, 227);
+    text-shadow: 0px 0px 9px  rgb(56, 8, 8) ;
+
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    /* background: #3fde9e; */
+}
+
+    
